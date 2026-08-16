@@ -237,8 +237,8 @@ I kept test-harness problems separate from issues observed in the practice agent
 - [x] At least 10 complete transcript files
 - [x] Matching MP3/OGG recordings for at least 10 calls
 - [x] Manually verified `BUG_REPORT.md`
-- [ ] Loom #1 public, webcam on, max 3 minutes
-- [ ] Loom #2 public AI-debugging screen recording, webcam on
-- [ ] Submission form contains the **single Twilio caller number** in E.164 format
-- [ ] No API keys or `.env` committed
-- [ ] Receipts retained if requesting reimbursement
+- [x] Loom #1 public, webcam on, max 3 minutes
+- [x] Loom #2 public AI-debugging screen recording, webcam on
+- [x] Submission form contains the **single Twilio caller number** in E.164 format
+- [x] No API keys or `.env` committed
+- [x] Receipts retained if requesting reimbursement
