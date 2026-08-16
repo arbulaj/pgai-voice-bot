@@ -229,7 +229,7 @@ I kept test-harness problems separate from issues observed in the practice agent
 
 ## GitHub submission checklist
 
-- [ ] Public repository
+- [x] Public repository
 - [x] Working Python code
 - [x] `.env.example`
 - [x] README
