@@ -1,0 +1,35 @@
+PRACTICE AGENT: This call may be recorded for quality and training purposes. Para español oprima el dos.
+
+PRACTICE AGENT: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?
+
+PATIENT BOT: Hi, I need some help with a prescription refill. Can you assist me with that?
+
+PRACTICE AGENT: I see you're calling from the number we have on file. Am I speaking with Jordan?
+
+PATIENT BOT: Oh, no, this is Morgan Lee. I’m calling about my atorvastatin refill.
+
+PRACTICE AGENT: Please provide your full date of birth.
+
+PATIENT BOT: Sure, it’s June 12, 1982.
+
+PRACTICE AGENT: Just to confirm, I have your name as Morgan Lee and your date of birth as June 12, 1982. Is that correct? If so, could you please spell your first and last name for me?
+
+PATIENT BOT: Yes, that’s correct. It’s Morgan Lee. M-O-R-G-A-N L-E-E.
+
+PRACTICE AGENT: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, just let me know.
+
+PATIENT BOT: Sure, I can give you the number on file. It should be 555-213-7890.
+
+PRACTICE AGENT: I have your phone number as 555-213-7890.
+
+PRACTICE AGENT: And your date of birth is June 12th, 1982, is that correct?
+
+PATIENT BOT: Yes, that’s correct. Now, I also need to update my pharmacy.
+
+PRACTICE AGENT: I'm unable to locate your record in our system. I'll connect you to our patient support team so they can help with your prescription refill and pharmacy update. Please stay on the line. Transferring you now. Thank you.
+
+PATIENT BOT: Actually, before transferring, can you tell me how
+
+PRACTICE AGENT: Hello, you've reached the Pretty Good AI test line. Goodbye.
+
+PATIENT BOT: Oh, I’m still here. I need to know how long the refill processing usually takes before we wrap up.

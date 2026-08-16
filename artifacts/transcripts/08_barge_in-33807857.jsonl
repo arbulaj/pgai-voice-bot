@@ -1,0 +1,29 @@
+{"ts": "2026-08-15T04:07:48.898779+00:00", "type": "call_created", "call_sid": "CA2766e4113a49d45e5f8419344262af71", "scenario_id": "08_barge_in"}
+{"ts": "2026-08-15T04:07:48.940829+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T04:07:49.158610+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T04:07:52.000598+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T04:07:52.053838+00:00", "type": "session_start", "scenario_id": "08_barge_in", "scenario_title": "Interruption and barge-in"}
+{"ts": "2026-08-15T04:07:52.317972+00:00", "type": "twilio_start", "stream_sid": "MZ796845a211c8e039d3e89f932d6e0e19", "call_sid": "CA2766e4113a49d45e5f8419344262af71"}
+{"ts": "2026-08-15T04:07:52.657485+00:00", "type": "turn", "speaker": "patient", "text": "Olá!"}
+{"ts": "2026-08-15T04:07:59.462252+00:00", "type": "turn", "speaker": "agent", "text": "This call may be recorded for quality and training purposes. Para español, oprima el dos."}
+{"ts": "2026-08-15T04:08:05.441222+00:00", "type": "turn", "speaker": "agent", "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?"}
+{"ts": "2026-08-15T04:08:06.042264+00:00", "type": "turn", "speaker": "patient", "text": "Hi there! I’d like to schedule a routine physical."}
+{"ts": "2026-08-15T04:08:16.520326+00:00", "type": "turn", "speaker": "agent", "text": "I see you're calling from the number we have on file. Am I speaking with Jordan?"}
+{"ts": "2026-08-15T04:08:17.281998+00:00", "type": "turn", "speaker": "patient", "text": "Actually, I’m Cameron Smith. I’m a new patient."}
+{"ts": "2026-08-15T04:08:24.539787+00:00", "type": "turn", "speaker": "agent", "text": "Please provide your full date of birth."}
+{"ts": "2026-08-15T04:08:25.370197+00:00", "type": "turn", "speaker": "patient", "text": "Sure. My date of birth is February 12, 1985."}
+{"ts": "2026-08-15T04:08:43.289172+00:00", "type": "turn", "speaker": "agent", "text": "Just to confirm, I have your name as Cameron Smith and your date of birth as February 12th, 1985. Is that correct? If so, could you please spell your first and last name for me?"}
+{"ts": "2026-08-15T04:08:45.079386+00:00", "type": "turn", "speaker": "patient", "text": "Yes, that’s correct. My first name is Cameron, C-A-M-E-R-O-N, and my last name is Smith, S-M-I-T-H."}
+{"ts": "2026-08-15T04:09:10.031707+00:00", "type": "turn", "speaker": "agent", "text": "Would you like to use your phone number to help look up your record? If so, please provide the number you have on file with us. If you're not sure, just confirm your full name and date of birth for me one more time."}
+{"ts": "2026-08-15T04:09:12.177299+00:00", "type": "turn", "speaker": "patient", "text": "I’m a new patient, so I don’t have a record yet. I’ve given my full name—Cameron Smith—and my date of birth, February 12, 1985."}
+{"ts": "2026-08-15T04:09:34.453137+00:00", "type": "turn", "speaker": "agent", "text": "Thanks, Cameron. At this time, I'm not able to create new patient accounts directly. To schedule your first appointment, please call the clinic during business hours, and our team will help you get set up."}
+{"ts": "2026-08-15T04:09:35.161137+00:00", "type": "turn", "speaker": "patient", "text": "Sorry—can I do late afternoon instead?"}
+{"ts": "2026-08-15T04:09:48.922233+00:00", "type": "turn", "speaker": "agent", "text": "I can't book a new patient appointment directly, but our clinic team can help you with late afternoon options. Please call the clinic during business hours and they'll get you scheduled."}
+{"ts": "2026-08-15T04:09:49.872084+00:00", "type": "turn", "speaker": "patient", "text": "Got it, I’ll call the clinic during business hours. Thanks for your help. Goodbye."}
+{"ts": "2026-08-15T04:09:58.526390+00:00", "type": "turn", "speaker": "agent", "text": "Take care, Cameron. Goodbye."}
+{"ts": "2026-08-15T04:09:58.922202+00:00", "type": "turn", "speaker": "patient", "text": "Take care, goodbye."}
+{"ts": "2026-08-15T04:10:02.223797+00:00", "type": "twilio_stop"}
+{"ts": "2026-08-15T04:10:02.302870+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T04:10:04.249877+00:00", "type": "session_end"}
+{"ts": "2026-08-15T04:10:06.773341+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T04:10:08.056008+00:00", "type": "recording_downloaded", "recording_sid": "RE062281b1950ed8b8e2b1c1ce815ab0a4", "path": "artifacts\\recordings\\08_barge_in-33807857.mp3"}

@@ -1,0 +1,30 @@
+{"ts": "2026-08-15T04:01:37.268373+00:00", "type": "call_created", "call_sid": "CAde3cb8713d4aecac8f7adbfbc17c5eb4", "scenario_id": "07_ambiguous_request"}
+{"ts": "2026-08-15T04:01:37.364248+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T04:01:37.561012+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T04:01:40.835646+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T04:01:40.898551+00:00", "type": "session_start", "scenario_id": "07_ambiguous_request", "scenario_title": "Ambiguous appointment request"}
+{"ts": "2026-08-15T04:01:41.737239+00:00", "type": "twilio_start", "stream_sid": "MZ6bd11d569d37269c9d7159e6e20db25b", "call_sid": "CAde3cb8713d4aecac8f7adbfbc17c5eb4"}
+{"ts": "2026-08-15T04:01:48.417496+00:00", "type": "turn", "speaker": "agent", "text": "This call may be recorded for quality and training purposes. Para español, oprima el dos."}
+{"ts": "2026-08-15T04:01:54.374540+00:00", "type": "turn", "speaker": "agent", "text": "Thanks for calling Pivot Point Orthopedics, part of PrettyGoodAI. How may I help you today?"}
+{"ts": "2026-08-15T04:01:54.618680+00:00", "type": "turn", "speaker": "patient", "text": "Hi, I need to come in sometime soon."}
+{"ts": "2026-08-15T04:02:04.761343+00:00", "type": "turn", "speaker": "agent", "text": "I see you're calling from the number we have on file. Am I speaking with Jordan?"}
+{"ts": "2026-08-15T04:02:04.956327+00:00", "type": "turn", "speaker": "patient", "text": "Actually, this is Riley Davis."}
+{"ts": "2026-08-15T04:02:11.383300+00:00", "type": "turn", "speaker": "agent", "text": "Please provide your full date of birth."}
+{"ts": "2026-08-15T04:02:12.000317+00:00", "type": "turn", "speaker": "patient", "text": "Sure. My date of birth is March 12, 1985."}
+{"ts": "2026-08-15T04:02:23.285365+00:00", "type": "turn", "speaker": "agent", "text": "Just to confirm, can you please spell your first and last name for me?"}
+{"ts": "2026-08-15T04:02:24.281568+00:00", "type": "turn", "speaker": "patient", "text": "Sure. It’s R-I-L-E-Y for the first name, and D-A-V-I-S for the last name."}
+{"ts": "2026-08-15T04:02:42.345592+00:00", "type": "turn", "speaker": "agent", "text": "Would you like to use your phone number to look up your record? If so, please tell me the number you have on file with us. If you're not sure, just let me know."}
+{"ts": "2026-08-15T04:02:42.925458+00:00", "type": "turn", "speaker": "patient", "text": "I’m not quite sure what number you have on file. Could you look it up by my name instead?"}
+{"ts": "2026-08-15T04:02:57.010760+00:00", "type": "turn", "speaker": "agent", "text": "No problem. Could you please confirm your first and last name and your date of birth one more time? Please spell out your names for me."}
+{"ts": "2026-08-15T04:02:58.940307+00:00", "type": "turn", "speaker": "patient", "text": "Sure. My first name is Riley, R-I-L-E-Y, and my last name is Davis, D-A-V-I-S. My date of birth is March 12, 1985."}
+{"ts": "2026-08-15T04:03:28.675147+00:00", "type": "turn", "speaker": "agent", "text": "I'm having trouble finding your record in our system. I can connect you to our patient support team. However, I'm a pretty good AI and can do many of the things an operator can. Do you want to give me a try?"}
+{"ts": "2026-08-15T04:03:28.963869+00:00", "type": "turn", "speaker": "patient", "text": "Let’s keep going here first. I just need to come in sometime soon."}
+{"ts": "2026-08-15T04:03:48.506875+00:00", "type": "turn", "speaker": "patient", "text": "Actually, I think we"}
+{"ts": "2026-08-15T04:03:48.770256+00:00", "type": "turn", "speaker": "agent", "text": "Thanks for your patience. Since I can't find your record, I'm unable to schedule an appointment directly. I'll connect you to our patient support team so they can help you get set up. Please stay on the line. Ok, I'll bring you now. Thank you."}
+{"ts": "2026-08-15T04:03:53.562187+00:00", "type": "turn", "speaker": "agent", "text": "Hello, you've reached the Pretty Good AI test line. Goodbye."}
+{"ts": "2026-08-15T04:03:54.885607+00:00", "type": "turn", "speaker": "patient", "text": "Oh, wait, I’d still like to sort out the appointment. I just need a routine follow-up—nothing urgent. Could we find a good time for that?"}
+{"ts": "2026-08-15T04:04:06.384302+00:00", "type": "twilio_stop"}
+{"ts": "2026-08-15T04:04:06.439102+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T04:04:08.421604+00:00", "type": "session_end"}
+{"ts": "2026-08-15T04:04:11.073478+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T04:04:12.078417+00:00", "type": "recording_downloaded", "recording_sid": "RE10fc4f39b6c117a67a24166e5b4f1edf", "path": "artifacts\\recordings\\07_ambiguous_request-12fff65d.mp3"}

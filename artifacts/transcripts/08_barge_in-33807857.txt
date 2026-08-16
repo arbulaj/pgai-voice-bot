@@ -1,0 +1,35 @@
+PATIENT BOT: Olá!
+
+PRACTICE AGENT: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+
+PRACTICE AGENT: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?
+
+PATIENT BOT: Hi there! I’d like to schedule a routine physical.
+
+PRACTICE AGENT: I see you're calling from the number we have on file. Am I speaking with Jordan?
+
+PATIENT BOT: Actually, I’m Cameron Smith. I’m a new patient.
+
+PRACTICE AGENT: Please provide your full date of birth.
+
+PATIENT BOT: Sure. My date of birth is February 12, 1985.
+
+PRACTICE AGENT: Just to confirm, I have your name as Cameron Smith and your date of birth as February 12th, 1985. Is that correct? If so, could you please spell your first and last name for me?
+
+PATIENT BOT: Yes, that’s correct. My first name is Cameron, C-A-M-E-R-O-N, and my last name is Smith, S-M-I-T-H.
+
+PRACTICE AGENT: Would you like to use your phone number to help look up your record? If so, please provide the number you have on file with us. If you're not sure, just confirm your full name and date of birth for me one more time.
+
+PATIENT BOT: I’m a new patient, so I don’t have a record yet. I’ve given my full name—Cameron Smith—and my date of birth, February 12, 1985.
+
+PRACTICE AGENT: Thanks, Cameron. At this time, I'm not able to create new patient accounts directly. To schedule your first appointment, please call the clinic during business hours, and our team will help you get set up.
+
+PATIENT BOT: Sorry—can I do late afternoon instead?
+
+PRACTICE AGENT: I can't book a new patient appointment directly, but our clinic team can help you with late afternoon options. Please call the clinic during business hours and they'll get you scheduled.
+
+PATIENT BOT: Got it, I’ll call the clinic during business hours. Thanks for your help. Goodbye.
+
+PRACTICE AGENT: Take care, Cameron. Goodbye.
+
+PATIENT BOT: Take care, goodbye.

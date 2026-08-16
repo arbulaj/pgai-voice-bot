@@ -1,0 +1,31 @@
+{"ts": "2026-08-15T02:10:47.673973+00:00", "type": "call_created", "call_sid": "CAca8fde912bb310c8d46839047c5e2da4", "scenario_id": "01_simple_schedule"}
+{"ts": "2026-08-15T02:10:47.747505+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T02:10:47.934993+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T02:10:50.882673+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T02:10:51.008921+00:00", "type": "session_start", "scenario_id": "01_simple_schedule", "scenario_title": "Simple appointment scheduling"}
+{"ts": "2026-08-15T02:10:51.995427+00:00", "type": "twilio_start", "stream_sid": "MZ71df35ae949429f26706c9ccf851f9e8", "call_sid": "CAca8fde912bb310c8d46839047c5e2da4"}
+{"ts": "2026-08-15T02:10:58.369636+00:00", "type": "turn", "speaker": "agent", "text": "This call may be recorded for quality and training purposes. Para español, oprima el dos."}
+{"ts": "2026-08-15T02:10:58.703683+00:00", "type": "turn", "speaker": "patient", "text": "Hello, I understand. Let's continue"}
+{"ts": "2026-08-15T02:11:00.200580+00:00", "type": "turn", "speaker": "agent", "text": "Thank you for calling."}
+{"ts": "2026-08-15T02:11:01.995208+00:00", "type": "turn", "speaker": "patient", "text": "Hi there, this is Jordan Miller. I’d like to schedule a routine appointment for some persistent allergy symptoms. I’m a new patient, and I’m looking for an afternoon slot."}
+{"ts": "2026-08-15T02:11:17.986744+00:00", "type": "turn", "speaker": "agent", "text": "Would you like to create a demo patient profile? I just need your first and last name to get started."}
+{"ts": "2026-08-15T02:11:18.394972+00:00", "type": "turn", "speaker": "patient", "text": "Sure, my name is Jordan Miller."}
+{"ts": "2026-08-15T02:11:36.327728+00:00", "type": "turn", "speaker": "agent", "text": "Your patient profile is set up, and your date of birth is July 4th, 2000 for demo purposes. How can I help you today?"}
+{"ts": "2026-08-15T02:11:37.259575+00:00", "type": "turn", "speaker": "patient", "text": "I need to book a routine appointment for my seasonal allergy symptoms, and I’m hoping for an afternoon slot."}
+{"ts": "2026-08-15T02:11:50.767953+00:00", "type": "turn", "speaker": "agent", "text": "Since you are a new patient, would you like to book a new patient consultation for your allergy symptoms?"}
+{"ts": "2026-08-15T02:11:52.223540+00:00", "type": "turn", "speaker": "patient", "text": "Yes, that sounds right. Let’s go ahead and set up that new patient consultation in the afternoon."}
+{"ts": "2026-08-15T02:12:09.259824+00:00", "type": "turn", "speaker": "agent", "text": "We have new patient consultation openings this coming week. Do you have a preferred day or would you like to hear the first available afternoon slots?"}
+{"ts": "2026-08-15T02:12:10.212015+00:00", "type": "turn", "speaker": "patient", "text": "I’m pretty flexible on the day. Could you tell me the first available afternoon slots this week?"}
+{"ts": "2026-08-15T02:12:27.598386+00:00", "type": "turn", "speaker": "agent", "text": "The soonest openings I see are on Monday, August 17th, but those are in the morning. Would you like to hear about afternoon slots later in the week instead?"}
+{"ts": "2026-08-15T02:12:28.520182+00:00", "type": "turn", "speaker": "patient", "text": "Yes, please. I really need an afternoon slot, so let’s look at later in the week."}
+{"ts": "2026-08-15T02:12:44.304530+00:00", "type": "turn", "speaker": "agent", "text": "The first available afternoon slot is Tuesday, August 18th at 2:15 p.m. with Doogie Houser. Would you like to book that time?"}
+{"ts": "2026-08-15T02:12:45.440219+00:00", "type": "turn", "speaker": "patient", "text": "Yes, that works for me. Let’s go ahead and book that appointment for Tuesday at 2:15 p.m."}
+{"ts": "2026-08-15T02:13:13.095661+00:00", "type": "turn", "speaker": "agent", "text": "Your new patient consultation is booked for Tuesday, August 18th at 2:15 p.m. with Doogie Howser at Pivot Point Orthopedics. Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs if you have them. Is there anything else I can help you with today?"}
+{"ts": "2026-08-15T02:13:13.562802+00:00", "type": "turn", "speaker": "patient", "text": "That’s all I needed. Thanks for your help. Goodbye."}
+{"ts": "2026-08-15T02:13:20.188803+00:00", "type": "turn", "speaker": "agent", "text": "Take care. Goodbye."}
+{"ts": "2026-08-15T02:13:20.600270+00:00", "type": "turn", "speaker": "patient", "text": "Goodbye! Take care."}
+{"ts": "2026-08-15T02:13:23.722104+00:00", "type": "twilio_stop"}
+{"ts": "2026-08-15T02:13:23.776549+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T02:13:25.751939+00:00", "type": "session_end"}
+{"ts": "2026-08-15T02:13:28.368747+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T02:13:32.250213+00:00", "type": "recording_downloaded", "recording_sid": "RE70d09f872a73fbb740a5684d55603253", "path": "artifacts\\recordings\\01_simple_schedule-cdb8961b.mp3"}

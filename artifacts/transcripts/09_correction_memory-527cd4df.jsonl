@@ -1,0 +1,30 @@
+{"ts": "2026-08-15T04:16:21.374292+00:00", "type": "call_created", "call_sid": "CA955f59ff16618bd705d1a0ac245c53ca", "scenario_id": "09_correction_memory"}
+{"ts": "2026-08-15T04:16:21.439162+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T04:16:21.646286+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T04:16:24.976770+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T04:16:25.061824+00:00", "type": "session_start", "scenario_id": "09_correction_memory", "scenario_title": "Correction and memory"}
+{"ts": "2026-08-15T04:16:26.068667+00:00", "type": "twilio_start", "stream_sid": "MZ7551a14995fe6a66e1e51f40b1f7079e", "call_sid": "CA955f59ff16618bd705d1a0ac245c53ca"}
+{"ts": "2026-08-15T04:16:31.986249+00:00", "type": "turn", "speaker": "patient", "text": "Sure, I"}
+{"ts": "2026-08-15T04:16:32.058020+00:00", "type": "turn", "speaker": "agent", "text": "This call may be recorded for quality and training purposes. Para español, oprima el dos."}
+{"ts": "2026-08-15T04:16:38.307400+00:00", "type": "turn", "speaker": "agent", "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?"}
+{"ts": "2026-08-15T04:16:39.331037+00:00", "type": "turn", "speaker": "patient", "text": "Hi, I’d like to schedule a routine appointment, please. I'm an existing patient—Alex Johnson."}
+{"ts": "2026-08-15T04:16:48.581545+00:00", "type": "turn", "speaker": "agent", "text": "Please provide your date of birth."}
+{"ts": "2026-08-15T04:16:49.459496+00:00", "type": "turn", "speaker": "patient", "text": "Sure, my date of birth is March 5, 1983."}
+{"ts": "2026-08-15T04:17:06.660879+00:00", "type": "turn", "speaker": "agent", "text": "Just to confirm, I have your name as Alex Johnson and your date of birth as March 5, 1983. Is that correct? If so, could you please spell your first and last name for me?"}
+{"ts": "2026-08-15T04:17:08.171948+00:00", "type": "turn", "speaker": "patient", "text": "Yes, that’s correct. It’s Alex Johnson—A-L-E-X J-O-H-N-S-O-N."}
+{"ts": "2026-08-15T04:17:24.850075+00:00", "type": "turn", "speaker": "agent", "text": "Thank you. Would you like to use a phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, just let me know."}
+{"ts": "2026-08-15T04:17:26.087756+00:00", "type": "turn", "speaker": "patient", "text": "I can provide that. The number on file should be 555-238-7910."}
+{"ts": "2026-08-15T04:17:40.575293+00:00", "type": "turn", "speaker": "agent", "text": "I have your phone number as 555-238-7910."}
+{"ts": "2026-08-15T04:17:44.800081+00:00", "type": "turn", "speaker": "agent", "text": "And your date of birth is March 5th, 1983. Is that correct?"}
+{"ts": "2026-08-15T04:17:45.334581+00:00", "type": "turn", "speaker": "patient", "text": "Yes, that’s correct. Thanks for confirming."}
+{"ts": "2026-08-15T04:17:52.350522+00:00", "type": "turn", "speaker": "agent", "text": "One moment while I look up your information."}
+{"ts": "2026-08-15T04:17:52.955314+00:00", "type": "turn", "speaker": "patient", "text": "Of course, take your time."}
+{"ts": "2026-08-15T04:18:08.418225+00:00", "type": "turn", "speaker": "patient", "text": "Actually,"}
+{"ts": "2026-08-15T04:18:08.460870+00:00", "type": "turn", "speaker": "agent", "text": "I'll unable to find your record in our system, so I can't schedule your appointment right now. I'll connect you to our patient support team for help. Please stay on the line. Transferring you now. Thank you."}
+{"ts": "2026-08-15T04:18:13.054646+00:00", "type": "turn", "speaker": "agent", "text": "Hello, you've reached the Pretty Good AI test line. Goodbye."}
+{"ts": "2026-08-15T04:18:14.368264+00:00", "type": "turn", "speaker": "patient", "text": "Hello, I think there was a mix-up. I'm still here and ready to schedule my appointment. Let’s go ahead and find a good time for that."}
+{"ts": "2026-08-15T04:18:24.649534+00:00", "type": "twilio_stop"}
+{"ts": "2026-08-15T04:18:24.699968+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T04:18:26.677717+00:00", "type": "session_end"}
+{"ts": "2026-08-15T04:18:29.144515+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T04:18:30.982447+00:00", "type": "recording_downloaded", "recording_sid": "RE1b5f663e243b83931d931596a2a79804", "path": "artifacts\\recordings\\09_correction_memory-527cd4df.mp3"}

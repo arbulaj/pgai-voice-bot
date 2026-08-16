@@ -1,0 +1,35 @@
+PRACTICE AGENT: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+
+PRACTICE AGENT: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?
+
+PATIENT BOT: Hi, I’m Drew Wilson, and I’m looking to set up a new patient appointment. I’ve got a pretty tight window I can do—only between 4:00 and 4:30 PM on weekdays. Could you help me find something in that time range?
+
+PRACTICE AGENT: I can help with that. First, can you please provide your date of birth?
+
+PATIENT BOT: Sure, my date of birth is March 12, 1985.
+
+PRACTICE AGENT: Just to confirm, I have your name as Drew Wilson and your date of birth as March 12th.
+
+PRACTICE AGENT: 1985. Is that correct? If so, please spell your first and last name for me.
+
+PATIENT BOT: Yes, that’s correct. My first name is spelled D-R-E-W, and my last name is W-I-L-S-O-N.
+
+PRACTICE AGENT: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, just let me know and I'll confirm your name and date of birth again.
+
+PATIENT BOT: I’m actually a new patient, so I don’t have a record on file yet. We can go ahead with just my name and date of birth for now.
+
+PRACTICE AGENT: Thanks for letting me know. I'm not able to create a new patient account, but I can share general information or help you with clinic details. If you'd like to schedule as a new patient, I recommend calling our clinic support team directly. Would you like the clinic's phone number or address?
+
+PATIENT BOT: I understand. If you can’t schedule new patients, could you at least tell me if there’s generally availability around 4:00 to 4:30 PM on weekdays? That would help me plan my next step.
+
+PRACTICE AGENT: Absolutely. Pivot Orthopedics is open Monday through Friday, with afternoon appointments available most days. Typically, there are openings between 4 and 4:30 p.m. on weekdays, especially on Wednesdays when the clinic is open until 7 p.m. For exact availability and to book as a new patient, please contact the clinic directly. Would you like the phone number or address?
+
+PATIENT BOT: Thanks, that’s helpful. Yes, I’d appreciate the clinic’s phone number so I can call them directly and get this set up.
+
+PRACTICE AGENT: The clinic's phone number is 405-543-2004. If you need the address or have any other questions, just let me know.
+
+PATIENT BOT: Got it, thanks for that. I’ll give them a call. Appreciate your help—take care.
+
+PRACTICE AGENT: You're welcome. Good luck with your appointment planning. Have a great day.
+
+PATIENT BOT: Thanks, you too. Bye now.

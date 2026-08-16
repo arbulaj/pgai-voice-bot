@@ -1,0 +1,33 @@
+PRACTICE AGENT: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+
+PRACTICE AGENT: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?
+
+PATIENT BOT: Hi, I need to cancel an appointment I have for Friday at 2:30 PM.
+
+PRACTICE AGENT: I see you're calling from the number we have on file. Am I speaking with Jordan?
+
+PATIENT BOT: Actually, no, this is Taylor Brooks. I'm calling about my appointment.
+
+PRACTICE AGENT: Please provide your full date of birth.
+
+PATIENT BOT: Sure, my date of birth is March 12, 1985.
+
+PRACTICE AGENT: Just to confirm, I have your name as Taylor Brooks and your date of birth as March 12th, 1985. Is that correct? If so, could you please spell your first and last name for me?
+
+PATIENT BOT: Yes, that's correct. My first name is Taylor: T-A-Y-L-O-R, and my last name is Brooks: B-R-O-O-K-S.
+
+PATIENT BOT: Yes, that’s all correct.
+
+PRACTICE AGENT: I have your name as Taylor Brooks, date of birth March 12, 1985, and your phone number as 405-543-2004. Is all of that correct?
+
+PRACTICE AGENT: I can't proceed further right now, but I can make sure our clinic support team follows up with you. Would you like me to connect you to our patient support team?
+
+PATIENT BOT: Actually, I’d really prefer to handle it now if possible. I just need to cancel that Friday appointment.
+
+PATIENT BOT: Actually, I can help
+
+PRACTICE AGENT: Transferring you now. Thank you.
+
+PRACTICE AGENT: Hello, you've reached the Pretty Good AI Test Line. Goodbye.
+
+PATIENT BOT: Hi, I'm still here. I'd like to confirm my appointment cancellation. Can we go ahead and complete that now?

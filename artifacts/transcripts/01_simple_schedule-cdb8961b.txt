@@ -1,0 +1,39 @@
+PRACTICE AGENT: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+
+PATIENT BOT: Hello, I understand. Let's continue
+
+PRACTICE AGENT: Thank you for calling.
+
+PATIENT BOT: Hi there, this is Jordan Miller. I’d like to schedule a routine appointment for some persistent allergy symptoms. I’m a new patient, and I’m looking for an afternoon slot.
+
+PRACTICE AGENT: Would you like to create a demo patient profile? I just need your first and last name to get started.
+
+PATIENT BOT: Sure, my name is Jordan Miller.
+
+PRACTICE AGENT: Your patient profile is set up, and your date of birth is July 4th, 2000 for demo purposes. How can I help you today?
+
+PATIENT BOT: I need to book a routine appointment for my seasonal allergy symptoms, and I’m hoping for an afternoon slot.
+
+PRACTICE AGENT: Since you are a new patient, would you like to book a new patient consultation for your allergy symptoms?
+
+PATIENT BOT: Yes, that sounds right. Let’s go ahead and set up that new patient consultation in the afternoon.
+
+PRACTICE AGENT: We have new patient consultation openings this coming week. Do you have a preferred day or would you like to hear the first available afternoon slots?
+
+PATIENT BOT: I’m pretty flexible on the day. Could you tell me the first available afternoon slots this week?
+
+PRACTICE AGENT: The soonest openings I see are on Monday, August 17th, but those are in the morning. Would you like to hear about afternoon slots later in the week instead?
+
+PATIENT BOT: Yes, please. I really need an afternoon slot, so let’s look at later in the week.
+
+PRACTICE AGENT: The first available afternoon slot is Tuesday, August 18th at 2:15 p.m. with Doogie Houser. Would you like to book that time?
+
+PATIENT BOT: Yes, that works for me. Let’s go ahead and book that appointment for Tuesday at 2:15 p.m.
+
+PRACTICE AGENT: Your new patient consultation is booked for Tuesday, August 18th at 2:15 p.m. with Doogie Howser at Pivot Point Orthopedics. Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs if you have them. Is there anything else I can help you with today?
+
+PATIENT BOT: That’s all I needed. Thanks for your help. Goodbye.
+
+PRACTICE AGENT: Take care. Goodbye.
+
+PATIENT BOT: Goodbye! Take care.

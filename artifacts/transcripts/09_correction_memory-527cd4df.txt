@@ -1,0 +1,37 @@
+PATIENT BOT: Sure, I
+
+PRACTICE AGENT: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+
+PRACTICE AGENT: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?
+
+PATIENT BOT: Hi, I’d like to schedule a routine appointment, please. I'm an existing patient—Alex Johnson.
+
+PRACTICE AGENT: Please provide your date of birth.
+
+PATIENT BOT: Sure, my date of birth is March 5, 1983.
+
+PRACTICE AGENT: Just to confirm, I have your name as Alex Johnson and your date of birth as March 5, 1983. Is that correct? If so, could you please spell your first and last name for me?
+
+PATIENT BOT: Yes, that’s correct. It’s Alex Johnson—A-L-E-X J-O-H-N-S-O-N.
+
+PRACTICE AGENT: Thank you. Would you like to use a phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, just let me know.
+
+PATIENT BOT: I can provide that. The number on file should be 555-238-7910.
+
+PRACTICE AGENT: I have your phone number as 555-238-7910.
+
+PRACTICE AGENT: And your date of birth is March 5th, 1983. Is that correct?
+
+PATIENT BOT: Yes, that’s correct. Thanks for confirming.
+
+PRACTICE AGENT: One moment while I look up your information.
+
+PATIENT BOT: Of course, take your time.
+
+PATIENT BOT: Actually,
+
+PRACTICE AGENT: I'll unable to find your record in our system, so I can't schedule your appointment right now. I'll connect you to our patient support team for help. Please stay on the line. Transferring you now. Thank you.
+
+PRACTICE AGENT: Hello, you've reached the Pretty Good AI test line. Goodbye.
+
+PATIENT BOT: Hello, I think there was a mix-up. I'm still here and ready to schedule my appointment. Let’s go ahead and find a good time for that.

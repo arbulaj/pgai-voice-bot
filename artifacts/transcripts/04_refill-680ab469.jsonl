@@ -1,0 +1,29 @@
+{"ts": "2026-08-15T03:04:43.993001+00:00", "type": "call_created", "call_sid": "CA4f1039cb7602bb760250efb1adfdf491", "scenario_id": "04_refill"}
+{"ts": "2026-08-15T03:04:44.051051+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T03:04:44.289393+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T03:04:47.225437+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T03:04:47.361217+00:00", "type": "session_start", "scenario_id": "04_refill", "scenario_title": "Medication refill routing"}
+{"ts": "2026-08-15T03:04:48.372642+00:00", "type": "twilio_start", "stream_sid": "MZ7be631178e2fcd53a03f11cddc7c024d", "call_sid": "CA4f1039cb7602bb760250efb1adfdf491"}
+{"ts": "2026-08-15T03:04:54.717332+00:00", "type": "turn", "speaker": "agent", "text": "This call may be recorded for quality and training purposes. Para español oprima el dos."}
+{"ts": "2026-08-15T03:05:01.216708+00:00", "type": "turn", "speaker": "agent", "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?"}
+{"ts": "2026-08-15T03:05:01.966858+00:00", "type": "turn", "speaker": "patient", "text": "Hi, I need some help with a prescription refill. Can you assist me with that?"}
+{"ts": "2026-08-15T03:05:13.111608+00:00", "type": "turn", "speaker": "agent", "text": "I see you're calling from the number we have on file. Am I speaking with Jordan?"}
+{"ts": "2026-08-15T03:05:13.933597+00:00", "type": "turn", "speaker": "patient", "text": "Oh, no, this is Morgan Lee. I’m calling about my atorvastatin refill."}
+{"ts": "2026-08-15T03:05:21.991043+00:00", "type": "turn", "speaker": "agent", "text": "Please provide your full date of birth."}
+{"ts": "2026-08-15T03:05:22.511125+00:00", "type": "turn", "speaker": "patient", "text": "Sure, it’s June 12, 1982."}
+{"ts": "2026-08-15T03:05:39.607736+00:00", "type": "turn", "speaker": "agent", "text": "Just to confirm, I have your name as Morgan Lee and your date of birth as June 12, 1982. Is that correct? If so, could you please spell your first and last name for me?"}
+{"ts": "2026-08-15T03:05:40.396664+00:00", "type": "turn", "speaker": "patient", "text": "Yes, that’s correct. It’s Morgan Lee. M-O-R-G-A-N L-E-E."}
+{"ts": "2026-08-15T03:06:00.003324+00:00", "type": "turn", "speaker": "agent", "text": "Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, just let me know."}
+{"ts": "2026-08-15T03:06:01.135823+00:00", "type": "turn", "speaker": "patient", "text": "Sure, I can give you the number on file. It should be 555-213-7890."}
+{"ts": "2026-08-15T03:06:16.011314+00:00", "type": "turn", "speaker": "agent", "text": "I have your phone number as 555-213-7890."}
+{"ts": "2026-08-15T03:06:20.701856+00:00", "type": "turn", "speaker": "agent", "text": "And your date of birth is June 12th, 1982, is that correct?"}
+{"ts": "2026-08-15T03:06:20.983836+00:00", "type": "turn", "speaker": "patient", "text": "Yes, that’s correct. Now, I also need to update my pharmacy."}
+{"ts": "2026-08-15T03:06:43.046417+00:00", "type": "turn", "speaker": "agent", "text": "I'm unable to locate your record in our system. I'll connect you to our patient support team so they can help with your prescription refill and pharmacy update. Please stay on the line. Transferring you now. Thank you."}
+{"ts": "2026-08-15T03:06:43.204772+00:00", "type": "turn", "speaker": "patient", "text": "Actually, before transferring, can you tell me how"}
+{"ts": "2026-08-15T03:06:47.888947+00:00", "type": "turn", "speaker": "agent", "text": "Hello, you've reached the Pretty Good AI test line. Goodbye."}
+{"ts": "2026-08-15T03:06:49.205823+00:00", "type": "turn", "speaker": "patient", "text": "Oh, I’m still here. I need to know how long the refill processing usually takes before we wrap up."}
+{"ts": "2026-08-15T03:06:57.919748+00:00", "type": "twilio_stop"}
+{"ts": "2026-08-15T03:06:57.994807+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T03:06:59.953972+00:00", "type": "session_end"}
+{"ts": "2026-08-15T03:07:02.458740+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T03:07:03.158403+00:00", "type": "recording_downloaded", "recording_sid": "REc19312f3ed2a1d8bcc66cbad32931d7b", "path": "artifacts\\recordings\\04_refill-680ab469.mp3"}

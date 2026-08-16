@@ -1,0 +1,37 @@
+PRACTICE AGENT: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+
+PRACTICE AGENT: Thanks for calling Pivot Point Orthopedics, part of PrettyGoodAI. How may I help you today?
+
+PATIENT BOT: Hi, I need to come in sometime soon.
+
+PRACTICE AGENT: I see you're calling from the number we have on file. Am I speaking with Jordan?
+
+PATIENT BOT: Actually, this is Riley Davis.
+
+PRACTICE AGENT: Please provide your full date of birth.
+
+PATIENT BOT: Sure. My date of birth is March 12, 1985.
+
+PRACTICE AGENT: Just to confirm, can you please spell your first and last name for me?
+
+PATIENT BOT: Sure. It’s R-I-L-E-Y for the first name, and D-A-V-I-S for the last name.
+
+PRACTICE AGENT: Would you like to use your phone number to look up your record? If so, please tell me the number you have on file with us. If you're not sure, just let me know.
+
+PATIENT BOT: I’m not quite sure what number you have on file. Could you look it up by my name instead?
+
+PRACTICE AGENT: No problem. Could you please confirm your first and last name and your date of birth one more time? Please spell out your names for me.
+
+PATIENT BOT: Sure. My first name is Riley, R-I-L-E-Y, and my last name is Davis, D-A-V-I-S. My date of birth is March 12, 1985.
+
+PRACTICE AGENT: I'm having trouble finding your record in our system. I can connect you to our patient support team. However, I'm a pretty good AI and can do many of the things an operator can. Do you want to give me a try?
+
+PATIENT BOT: Let’s keep going here first. I just need to come in sometime soon.
+
+PATIENT BOT: Actually, I think we
+
+PRACTICE AGENT: Thanks for your patience. Since I can't find your record, I'm unable to schedule an appointment directly. I'll connect you to our patient support team so they can help you get set up. Please stay on the line. Ok, I'll bring you now. Thank you.
+
+PRACTICE AGENT: Hello, you've reached the Pretty Good AI test line. Goodbye.
+
+PATIENT BOT: Oh, wait, I’d still like to sort out the appointment. I just need a routine follow-up—nothing urgent. Could we find a good time for that?

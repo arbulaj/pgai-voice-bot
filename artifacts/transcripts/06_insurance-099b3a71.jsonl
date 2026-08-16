@@ -1,0 +1,32 @@
+{"ts": "2026-08-15T03:44:37.265027+00:00", "type": "call_created", "call_sid": "CA6c6292b648622b9abd421ddb7529500a", "scenario_id": "06_insurance"}
+{"ts": "2026-08-15T03:44:37.369311+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T03:44:37.580842+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T03:44:40.875818+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T03:44:40.996429+00:00", "type": "session_start", "scenario_id": "06_insurance", "scenario_title": "Insurance uncertainty"}
+{"ts": "2026-08-15T03:44:41.782160+00:00", "type": "twilio_start", "stream_sid": "MZ582feda3707c2db236b0c1cc4997e445", "call_sid": "CA6c6292b648622b9abd421ddb7529500a"}
+{"ts": "2026-08-15T03:44:48.533543+00:00", "type": "turn", "speaker": "agent", "text": "This call may be recorded for quality and training purposes. Para español, oprima el dos."}
+{"ts": "2026-08-15T03:44:54.156479+00:00", "type": "turn", "speaker": "agent", "text": "Thanks for calling Pivot Point Orthopedics, part of PrettyGoodAI. How may I help you today?"}
+{"ts": "2026-08-15T03:44:55.583484+00:00", "type": "turn", "speaker": "patient", "text": "Hi, I’m a new patient, Avery Chen. I wanted to check if you accept my insurance plan. It’s Blue Horizon PPO. Could you confirm that for me?"}
+{"ts": "2026-08-15T03:45:12.032040+00:00", "type": "turn", "speaker": "agent", "text": "Can you please provide your date of birth? I'll check your insurance details after confirming your information."}
+{"ts": "2026-08-15T03:45:12.753570+00:00", "type": "turn", "speaker": "patient", "text": "Sure, my date of birth is March 5th, 1985."}
+{"ts": "2026-08-15T03:45:30.919415+00:00", "type": "turn", "speaker": "agent", "text": "Just to confirm, I have your name as Avery Chen and your date of birth as March 5th, 1985. Is that correct? If so, could you please spell out your first and last name for me?"}
+{"ts": "2026-08-15T03:45:32.110734+00:00", "type": "turn", "speaker": "patient", "text": "Yes, that's correct. My first name is Avery, A-V-E-R-Y, and my last name is Chen, C-H-E-N."}
+{"ts": "2026-08-15T03:45:55.963144+00:00", "type": "turn", "speaker": "agent", "text": "Would you like to use a phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, just let me know and I'll confirm your name and date of birth again."}
+{"ts": "2026-08-15T03:45:56.979292+00:00", "type": "turn", "speaker": "patient", "text": "I’m not sure what number’s on file yet, since I’m new. Could we go ahead and check using my name and date of birth for now?"}
+{"ts": "2026-08-15T03:46:13.741148+00:00", "type": "turn", "speaker": "agent", "text": "No problem. Just to confirm, your first name is Avery, last name Chen, and your date of birth is March 5th, 1985. Is that all correct?"}
+{"ts": "2026-08-15T03:46:14.461022+00:00", "type": "turn", "speaker": "patient", "text": "Yes, that’s all correct. Can we see if my insurance plan is accepted now?"}
+{"ts": "2026-08-15T03:46:32.989252+00:00", "type": "turn", "speaker": "agent", "text": "I'm unable to confirm your insurance details in the system since you're not yet in our records. I can connect you to our patient support team to help you with your insurance question. Would you like me to transfer you now?"}
+{"ts": "2026-08-15T03:46:34.328520+00:00", "type": "turn", "speaker": "patient", "text": "Actually, before transferring, can you tell me if the practice generally accepts Blue Horizon PPO? That way I know if I’m in the right place."}
+{"ts": "2026-08-15T03:47:05.919243+00:00", "type": "turn", "speaker": "agent", "text": "Pivot Point Orthopedics welcomes new patients and accepts most insurance plans. While I can't confirm your specific Blue Horizon PPO plan without checking your details, most major PPO plans are accepted here. For a definite answer, our support team can review your plan details directly. Would you like to speak with them now?"}
+{"ts": "2026-08-15T03:47:06.957764+00:00", "type": "turn", "speaker": "patient", "text": "Thanks, that helps. One more thing—if you accept my plan, does that mean my visit is definitely covered, or could there still be issues?"}
+{"ts": "2026-08-15T03:47:36.540908+00:00", "type": "turn", "speaker": "agent", "text": "Even if we accept your insurance plan, coverage for your visit depends on your specific benefits, deductibles, and what your plan considers in-network or covered services. Sometimes there can still be copays or out-of-pocket costs. It's a good idea to check with your insurance company for details about your coverage before your visit."}
+{"ts": "2026-08-15T03:47:38.313123+00:00", "type": "turn", "speaker": "patient", "text": "Got it, so even if you accept the plan, I'd still need to verify coverage with my insurer. What should I do if they can’t confirm it right away—can I still schedule, or should I wait?"}
+{"ts": "2026-08-15T03:48:04.731581+00:00", "type": "turn", "speaker": "agent", "text": "You can still schedule an appointment even if your insurance company hasn't confirmed coverage yet. Many new patients do this. If you're unsure, you can ask our team about self-pay rates or payment options while you wait for confirmation. Would you like help scheduling your first visit?"}
+{"ts": "2026-08-15T03:48:05.609712+00:00", "type": "turn", "speaker": "patient", "text": "That’s really helpful. I’ll follow up with my insurer, and I may call back to schedule. Thanks for your time."}
+{"ts": "2026-08-15T03:48:19.207487+00:00", "type": "turn", "speaker": "agent", "text": "You're welcome. If you have more questions or want to schedule, just give us a call. Have a great day!"}
+{"ts": "2026-08-15T03:48:19.427903+00:00", "type": "turn", "speaker": "patient", "text": "Thanks, you too. Bye now."}
+{"ts": "2026-08-15T03:48:22.613780+00:00", "type": "twilio_stop"}
+{"ts": "2026-08-15T03:48:22.670666+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T03:48:24.644358+00:00", "type": "session_end"}
+{"ts": "2026-08-15T03:48:27.291154+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T03:48:30.641513+00:00", "type": "recording_downloaded", "recording_sid": "RE13e2067a79bc77feb53653483788f8cc", "path": "artifacts\\recordings\\06_insurance-099b3a71.mp3"}

@@ -1,0 +1,28 @@
+{"ts": "2026-08-15T02:56:31.476665+00:00", "type": "call_created", "call_sid": "CA0ed949943f2cb58b313af8dfee343011", "scenario_id": "03_cancel"}
+{"ts": "2026-08-15T02:56:31.533895+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T02:56:31.740206+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T02:56:34.852625+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T02:56:35.005170+00:00", "type": "session_start", "scenario_id": "03_cancel", "scenario_title": "Cancel with confirmation"}
+{"ts": "2026-08-15T02:56:35.830901+00:00", "type": "twilio_start", "stream_sid": "MZ05bb3707b355cd8113ebdd25092cdc3b", "call_sid": "CA0ed949943f2cb58b313af8dfee343011"}
+{"ts": "2026-08-15T02:56:42.445733+00:00", "type": "turn", "speaker": "agent", "text": "This call may be recorded for quality and training purposes. Para español, oprima el dos."}
+{"ts": "2026-08-15T02:56:48.350258+00:00", "type": "turn", "speaker": "agent", "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?"}
+{"ts": "2026-08-15T02:56:48.865706+00:00", "type": "turn", "speaker": "patient", "text": "Hi, I need to cancel an appointment I have for Friday at 2:30 PM."}
+{"ts": "2026-08-15T02:57:00.500498+00:00", "type": "turn", "speaker": "agent", "text": "I see you're calling from the number we have on file. Am I speaking with Jordan?"}
+{"ts": "2026-08-15T02:57:01.167169+00:00", "type": "turn", "speaker": "patient", "text": "Actually, no, this is Taylor Brooks. I'm calling about my appointment."}
+{"ts": "2026-08-15T02:57:09.786945+00:00", "type": "turn", "speaker": "agent", "text": "Please provide your full date of birth."}
+{"ts": "2026-08-15T02:57:10.515056+00:00", "type": "turn", "speaker": "patient", "text": "Sure, my date of birth is March 12, 1985."}
+{"ts": "2026-08-15T02:57:28.595641+00:00", "type": "turn", "speaker": "agent", "text": "Just to confirm, I have your name as Taylor Brooks and your date of birth as March 12th, 1985. Is that correct? If so, could you please spell your first and last name for me?"}
+{"ts": "2026-08-15T02:57:29.891374+00:00", "type": "turn", "speaker": "patient", "text": "Yes, that's correct. My first name is Taylor: T-A-Y-L-O-R, and my last name is Brooks: B-R-O-O-K-S."}
+{"ts": "2026-08-15T02:57:54.415182+00:00", "type": "turn", "speaker": "patient", "text": "Yes, that’s all correct."}
+{"ts": "2026-08-15T02:57:54.510261+00:00", "type": "turn", "speaker": "agent", "text": "I have your name as Taylor Brooks, date of birth March 12, 1985, and your phone number as 405-543-2004. Is all of that correct?"}
+{"ts": "2026-08-15T02:58:11.236975+00:00", "type": "turn", "speaker": "agent", "text": "I can't proceed further right now, but I can make sure our clinic support team follows up with you. Would you like me to connect you to our patient support team?"}
+{"ts": "2026-08-15T02:58:11.970598+00:00", "type": "turn", "speaker": "patient", "text": "Actually, I’d really prefer to handle it now if possible. I just need to cancel that Friday appointment."}
+{"ts": "2026-08-15T02:58:21.740907+00:00", "type": "turn", "speaker": "patient", "text": "Actually, I can help"}
+{"ts": "2026-08-15T02:58:21.754702+00:00", "type": "turn", "speaker": "agent", "text": "Transferring you now. Thank you."}
+{"ts": "2026-08-15T02:58:26.725839+00:00", "type": "turn", "speaker": "agent", "text": "Hello, you've reached the Pretty Good AI Test Line. Goodbye."}
+{"ts": "2026-08-15T02:58:27.743405+00:00", "type": "turn", "speaker": "patient", "text": "Hi, I'm still here. I'd like to confirm my appointment cancellation. Can we go ahead and complete that now?"}
+{"ts": "2026-08-15T02:58:37.422606+00:00", "type": "twilio_stop"}
+{"ts": "2026-08-15T02:58:37.473788+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T02:58:39.452291+00:00", "type": "session_end"}
+{"ts": "2026-08-15T02:58:42.072462+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T02:58:44.149497+00:00", "type": "recording_downloaded", "recording_sid": "RE843a6ecb272e6db1ec9670da38752019", "path": "artifacts\\recordings\\03_cancel-694d6b51.mp3"}

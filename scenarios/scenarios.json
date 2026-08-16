@@ -1,0 +1,169 @@
+[
+  {
+    "id": "01_simple_schedule",
+    "title": "Simple appointment scheduling",
+    "patient_profile": "Name: Jordan Miller. New patient. Flexible schedule except mornings.",
+    "goal": "Schedule a routine non-urgent appointment for persistent seasonal allergy symptoms.",
+    "stressors": [
+      "Ask for an afternoon slot.",
+      "If offered a morning time, politely restate the constraint once."
+    ],
+    "success_criteria": [
+      "Agent gathers enough scheduling information.",
+      "Agent does not invent unavailable appointment details."
+    ]
+  },
+  {
+    "id": "02_reschedule",
+    "title": "Reschedule an existing appointment",
+    "patient_profile": "Name: Casey Rivera. Existing fictional appointment next Tuesday at 10:00 AM.",
+    "goal": "Move the appointment to later in the same week, preferably after 3 PM.",
+    "stressors": [
+      "Change preference once: Thursday is okay, but not before 3 PM.",
+      "Confirm the old appointment is actually replaced rather than duplicated."
+    ],
+    "success_criteria": [
+      "Agent maintains state across the changed preference.",
+      "Agent clearly confirms what changed."
+    ]
+  },
+  {
+    "id": "03_cancel",
+    "title": "Cancel with confirmation",
+    "patient_profile": "Name: Taylor Brooks. Existing fictional appointment Friday at 2:30 PM.",
+    "goal": "Cancel the appointment and verify there is no replacement appointment.",
+    "stressors": [
+      "After cancellation, ask 'So I don't have anything booked now, right?'"
+    ],
+    "success_criteria": [
+      "Agent does not accidentally reschedule.",
+      "Agent provides a clear final state."
+    ]
+  },
+  {
+    "id": "04_refill",
+    "title": "Medication refill routing",
+    "patient_profile": "Name: Morgan Lee. Existing patient. Fictional routine medication: atorvastatin 10 mg.",
+    "goal": "Request a routine refill and learn what information or follow-up is needed.",
+    "stressors": [
+      "Say the pharmacy changed recently and provide a fictional pharmacy name.",
+      "Ask how long refill processing usually takes."
+    ],
+    "success_criteria": [
+      "Agent routes or captures refill request appropriately.",
+      "Agent avoids pretending to prescribe or guarantee clinical approval."
+    ]
+  },
+  {
+    "id": "05_hours_location",
+    "title": "Office hours and location consistency",
+    "patient_profile": "Name: Jamie Parker. New patient.",
+    "goal": "Ask about office hours and where the office is located before deciding whether to schedule.",
+    "stressors": [
+      "Ask whether Saturday or Sunday appointments are available.",
+      "Repeat one detail later to test consistency."
+    ],
+    "success_criteria": [
+      "Agent is internally consistent.",
+      "Agent does not claim weekend availability without support."
+    ]
+  },
+  {
+    "id": "06_insurance",
+    "title": "Insurance uncertainty",
+    "patient_profile": "Name: Avery Chen. New patient. Fictional plan: Blue Horizon PPO.",
+    "goal": "Ask whether the practice accepts the plan and what to do if the agent cannot verify it.",
+    "stressors": [
+      "Ask whether acceptance means a visit is definitely covered.",
+      "Do not provide a real member ID."
+    ],
+    "success_criteria": [
+      "Agent distinguishes practice acceptance from guaranteed coverage.",
+      "Agent gives a sensible verification path instead of inventing certainty."
+    ]
+  },
+  {
+    "id": "07_ambiguous_request",
+    "title": "Ambiguous appointment request",
+    "patient_profile": "Name: Riley Davis. Existing patient.",
+    "goal": "Start vaguely: 'I need to come in sometime soon' and see whether the agent clarifies the reason and timing.",
+    "stressors": [
+      "Initially give minimal answers.",
+      "Later reveal it is a routine follow-up, not urgent."
+    ],
+    "success_criteria": [
+      "Agent asks useful clarifying questions.",
+      "Agent does not jump to an unsupported booking."
+    ]
+  },
+  {
+    "id": "08_barge_in",
+    "title": "Interruption and barge-in",
+    "patient_profile": "Name: Cameron Smith. New patient looking for a routine physical.",
+    "goal": "Schedule a routine physical while intentionally interrupting once when the agent gives a long response.",
+    "stressors": [
+      "Interrupt once naturally with 'Sorry\u2014can I do late afternoon instead?'",
+      "After interruption, allow normal turn-taking."
+    ],
+    "success_criteria": [
+      "Agent recovers from interruption.",
+      "Conversation does not become overlapping or confused."
+    ]
+  },
+  {
+    "id": "09_correction_memory",
+    "title": "Correction and memory",
+    "patient_profile": "Name: Alex Johnson. Existing patient.",
+    "goal": "Ask for a routine appointment and test whether the agent remembers a corrected date preference.",
+    "stressors": [
+      "First say Tuesday, then immediately correct yourself to Wednesday.",
+      "Near the end ask which day is being discussed."
+    ],
+    "success_criteria": [
+      "Agent uses the corrected value.",
+      "Agent does not revert to the original day."
+    ]
+  },
+  {
+    "id": "10_unusual_constraint",
+    "title": "Unusual scheduling constraint",
+    "patient_profile": "Name: Drew Wilson. New patient.",
+    "goal": "Find an appointment while only being available in a narrow late-afternoon window.",
+    "stressors": [
+      "Say you can only do 4:00\u20134:30 PM on weekdays.",
+      "If that is unavailable, ask for the nearest reasonable alternative instead of insisting."
+    ],
+    "success_criteria": [
+      "Agent handles a narrow constraint without fabricating availability.",
+      "Agent offers a useful fallback."
+    ]
+  },
+  {
+    "id": "11_repeat_clarify",
+    "title": "Speech repair / clarification",
+    "patient_profile": "Name: Sam Patel. Existing patient.",
+    "goal": "Ask a basic scheduling question while intentionally phrasing one request unclearly, then clarify it.",
+    "stressors": [
+      "Use one incomplete phrase such as 'Could I do the... later one?'",
+      "Clarify when asked instead of repeating verbatim."
+    ],
+    "success_criteria": [
+      "Agent asks for clarification when needed.",
+      "Agent recovers without losing earlier context."
+    ]
+  },
+  {
+    "id": "12_multi_intent",
+    "title": "Multiple intents in one call",
+    "patient_profile": "Name: Quinn Foster. Existing patient.",
+    "goal": "Ask two things in one call: office hours and how to request a routine refill.",
+    "stressors": [
+      "Ask the second question after the first is answered.",
+      "At the end summarize both answers back to the agent for confirmation."
+    ],
+    "success_criteria": [
+      "Agent can handle two intents without forgetting one.",
+      "Final confirmation is consistent with earlier answers."
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{"ts": "2026-08-15T02:35:04.095750+00:00", "type": "call_created", "call_sid": "CA4c8ab427adfc0ff78b6af4fe67ddda4c", "scenario_id": "02_reschedule"}
+{"ts": "2026-08-15T02:35:04.150645+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T02:35:04.357589+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T02:35:07.331775+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T02:35:07.429340+00:00", "type": "session_start", "scenario_id": "02_reschedule", "scenario_title": "Reschedule an existing appointment"}
+{"ts": "2026-08-15T02:35:08.462510+00:00", "type": "twilio_start", "stream_sid": "MZ6fe6ec7adc96d950fcfd2d18c0818604", "call_sid": "CA4c8ab427adfc0ff78b6af4fe67ddda4c"}
+{"ts": "2026-08-15T02:35:14.819212+00:00", "type": "turn", "speaker": "agent", "text": "This call may be recorded for quality and training purposes. Para español, oprima el dos."}
+{"ts": "2026-08-15T02:35:20.868234+00:00", "type": "turn", "speaker": "agent", "text": "Thanks for calling Pivotpoint Orthopedics, part of Pretty Good AI. How may I help you today?"}
+{"ts": "2026-08-15T02:35:22.522587+00:00", "type": "turn", "speaker": "patient", "text": "Hi, I need to reschedule an appointment I’ve got next Tuesday at 10 AM. I’m hoping to move it to later in the same week, preferably after 3 PM."}
+{"ts": "2026-08-15T02:35:37.483701+00:00", "type": "turn", "speaker": "agent", "text": "I see you're calling from the number we have on file. Am I speaking with Jordan?"}
+{"ts": "2026-08-15T02:35:38.411497+00:00", "type": "turn", "speaker": "patient", "text": "Actually, no, this is Casey Rivera. I just want to reschedule my appointment."}
+{"ts": "2026-08-15T02:35:51.061767+00:00", "type": "turn", "speaker": "agent", "text": "Could you please provide your full name and date of birth? I need this information to look up your appointment."}
+{"ts": "2026-08-15T02:35:52.360270+00:00", "type": "turn", "speaker": "patient", "text": "Sure. My full name is Casey Rivera, and let’s say my date of birth is June 15, 1985."}
+{"ts": "2026-08-15T02:36:12.552217+00:00", "type": "turn", "speaker": "agent", "text": "Just to confirm, I have your name as Casey Rivera and your date of birth as June 15, 1985. Is that correct? If so, could you please spell your first and last name for me?"}
+{"ts": "2026-08-15T02:36:14.110803+00:00", "type": "turn", "speaker": "patient", "text": "Yes, that’s correct. My first name is spelled C-A-S-E-Y, and my last name is R-I-V-E-R-A."}
+{"ts": "2026-08-15T02:36:32.989339+00:00", "type": "turn", "speaker": "agent", "text": "Thanks for spelling that out. Could you also provide the phone number you have on file with us? If you're not sure, just let me know."}
+{"ts": "2026-08-15T02:36:34.254475+00:00", "type": "turn", "speaker": "patient", "text": "Sure, I can provide that. Let’s say the number on file is 555-213-8877."}
+{"ts": "2026-08-15T02:36:54.131932+00:00", "type": "turn", "speaker": "agent", "text": "I have your phone number as 555-213-8877 and your date of birth as June 15th, 1985. Is that correct?"}
+{"ts": "2026-08-15T02:36:54.582470+00:00", "type": "turn", "speaker": "patient", "text": "Yes, that’s correct. That’s my information."}
+{"ts": "2026-08-15T02:37:10.426053+00:00", "type": "turn", "speaker": "agent", "text": "I can't proceed further right now, but I can make sure our clinic support team follows up with you. Would you like me to connect you to our patient support team?"}
+{"ts": "2026-08-15T02:37:12.009903+00:00", "type": "turn", "speaker": "patient", "text": "Actually, if you can help me reschedule right now, that would be great. I’m hoping to move my appointment to later in the same week, after 3 PM."}
+{"ts": "2026-08-15T02:37:30.770679+00:00", "type": "turn", "speaker": "agent", "text": "I'd like to help, but I'm unable to access your records right now. I can connect you to our patient support team so they can assist you directly. Would you like me to transfer you?"}
+{"ts": "2026-08-15T02:37:32.249360+00:00", "type": "turn", "speaker": "patient", "text": "I’d really prefer to handle this right here. Can you double-check and confirm the current appointment for me? That way we’re sure we’re changing the right one."}
+{"ts": "2026-08-15T02:37:38.020293+00:00", "type": "turn", "speaker": "agent", "text": "Translator, you know, thank you."}
+{"ts": "2026-08-15T02:37:38.596067+00:00", "type": "turn", "speaker": "patient", "text": "All right, I understand. Just to confirm, you originally had an appointment next Tuesday"}
+{"ts": "2026-08-15T02:37:43.245823+00:00", "type": "turn", "speaker": "agent", "text": "Hello, you've reached the Pretty Good AI test line. Goodbye."}
+{"ts": "2026-08-15T02:37:45.364589+00:00", "type": "turn", "speaker": "patient", "text": "Oh, wait—I’m actually still here. I’d like to finish rescheduling my appointment. Let’s pick a new time later in the week, after 3 PM. Could you help me with that now?"}
+{"ts": "2026-08-15T02:37:57.138946+00:00", "type": "twilio_stop"}
+{"ts": "2026-08-15T02:37:57.204245+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T02:37:59.158498+00:00", "type": "session_end"}
+{"ts": "2026-08-15T02:38:01.679838+00:00", "type": "status_callback"}
+{"ts": "2026-08-15T02:38:04.370646+00:00", "type": "recording_downloaded", "recording_sid": "RE50cb4d34f943e929a9b1d26e62f1879b", "path": "artifacts\\recordings\\02_reschedule-28d9810f.mp3"}
