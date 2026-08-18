@@ -1,6 +1,6 @@
 # Pretty Good AI — Patient Voice Bot
 
-Automated Python voice caller for the Pretty Good AI AI Engineering Challenge.
+Automated Python voice caller for an Engineering Challenge.
 
 ## What it does
 
