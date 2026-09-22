@@ -5,7 +5,7 @@
 
 A Python-based voice testing system that simulates patients in live phone conversations with a healthcare scheduling assistant. The application places authorized test calls, streams two-way audio, saves recordings and transcripts, and supports scenario-based testing and bug analysis.
 
-I built this project for an AI engineering challenge to evaluate how a conversational healthcare assistant handles realistic patient requests, interruptions, corrections, and unusual constraints.
+I built this project to evaluate how a conversational healthcare assistant handles realistic patient requests, interruptions, corrections, and unusual constraints.
 
 ## Project Highlights
 
